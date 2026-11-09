@@ -1,0 +1,9 @@
+# All preinstalled on Kaggle GPU notebooks; versions used are recorded in results/environment.json.
+torch>=2.1
+transformers>=4.40      # SiglipModel with SDPA attention; reused wrapper handles 4.x and 5.x layouts
+sentencepiece           # SigLIP text tokenizer
+numpy
+pandas
+matplotlib
+pillow
+pytest                  # unit tests in tests/

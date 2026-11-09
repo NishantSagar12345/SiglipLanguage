@@ -1,0 +1,41 @@
+policy,num_tokens,attribute_value,selection_accuracy,attribute
+SigLIP 100 tokens,100,circle,0.9647058823529412,shape
+SigLIP 100 tokens,100,square,0.9724770642201835,shape
+SigLIP 100 tokens,100,triangle,1.0,shape
+SigLIP 144 tokens,144,circle,0.9764705882352941,shape
+SigLIP 144 tokens,144,square,0.944954128440367,shape
+SigLIP 144 tokens,144,triangle,0.9905660377358491,shape
+SigLIP 196 tokens,196,circle,0.9647058823529412,shape
+SigLIP 196 tokens,196,square,0.944954128440367,shape
+SigLIP 196 tokens,196,triangle,1.0,shape
+"SigLIP 196, shuffled instruction",196,circle,0.09411764705882353,shape
+"SigLIP 196, shuffled instruction",196,square,0.05504587155963303,shape
+"SigLIP 196, shuffled instruction",196,triangle,0.10377358490566038,shape
+SigLIP 49 tokens,49,circle,0.788235294117647,shape
+SigLIP 49 tokens,49,square,0.908256880733945,shape
+SigLIP 49 tokens,49,triangle,0.9716981132075472,shape
+SigLIP 100 tokens,100,blue,0.9726027397260274,colour
+SigLIP 100 tokens,100,green,1.0,colour
+SigLIP 100 tokens,100,purple,0.9838709677419355,colour
+SigLIP 100 tokens,100,red,0.9545454545454546,colour
+SigLIP 100 tokens,100,yellow,0.9846153846153847,colour
+SigLIP 144 tokens,144,blue,1.0,colour
+SigLIP 144 tokens,144,green,0.9642857142857143,colour
+SigLIP 144 tokens,144,purple,1.0,colour
+SigLIP 144 tokens,144,red,0.8863636363636364,colour
+SigLIP 144 tokens,144,yellow,0.9692307692307692,colour
+SigLIP 196 tokens,196,blue,0.9863013698630136,colour
+SigLIP 196 tokens,196,green,1.0,colour
+SigLIP 196 tokens,196,purple,1.0,colour
+SigLIP 196 tokens,196,red,0.9545454545454546,colour
+SigLIP 196 tokens,196,yellow,0.9076923076923077,colour
+"SigLIP 196, shuffled instruction",196,blue,0.0821917808219178,colour
+"SigLIP 196, shuffled instruction",196,green,0.125,colour
+"SigLIP 196, shuffled instruction",196,purple,0.08064516129032258,colour
+"SigLIP 196, shuffled instruction",196,red,0.0,colour
+"SigLIP 196, shuffled instruction",196,yellow,0.1076923076923077,colour
+SigLIP 49 tokens,49,blue,0.9315068493150684,colour
+SigLIP 49 tokens,49,green,0.875,colour
+SigLIP 49 tokens,49,purple,0.9838709677419355,colour
+SigLIP 49 tokens,49,red,0.7045454545454546,colour
+SigLIP 49 tokens,49,yellow,0.9230769230769231,colour
